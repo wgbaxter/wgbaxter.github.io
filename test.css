@@ -28,7 +28,7 @@ body{
 	}
 	
 	#LeftNav{
-		
+		border:solid 8px black;
 		
 	}
 	
@@ -48,10 +48,11 @@ body{
 	}
 	
 	#Content{
-		
+		border:solid 8px black;
 		
 	}
 	
 	#Footer{
+		border:solid 8px black;
 		
 	}
