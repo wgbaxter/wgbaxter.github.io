@@ -29,6 +29,7 @@ body{
 	
 	#LeftNav{
 		border:solid 8px black;
+		float: left;
 		
 	}
 	
