@@ -18,7 +18,8 @@ body{
 	}
 	
 	#Header{
-		float: middle;
+		
+		text-align: center;
 		width: 500px;
 		margin-left: auto;
 		margin-right: auto;
@@ -33,6 +34,7 @@ body{
 	}
 	
 	#LeftNav{
+		text-align: center;
 		width: 400px;
 		margin-left: auto;
 		margin-right: auto;
@@ -48,7 +50,8 @@ body{
 	}
 	
 	#LeftNav ul{
-		
+		list-style-type: none;
+		padding-left: 0px;
 		
 	}
 	
@@ -58,6 +61,7 @@ body{
 	}
 	
 	#Content{
+		text-align: center;
 		width: 700px;
 		margin-left: auto;
 		margin-right: auto;
@@ -67,6 +71,7 @@ body{
 	}
 	
 	#Footer{
+		text-align: center;
 		border:solid 8px black;
 		
 	}
