@@ -18,7 +18,7 @@ body{
 	}
 	
 	#Header{
-		
+		float: middle;
 		width: 500px;
 		margin-left: auto;
 		margin-right: auto;
